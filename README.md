@@ -1,6 +1,8 @@
 # networkwalks-B082-week1-Cybersecurity-lab-setup
 Cybersecurity Lab Setup
+
 Virtual Cybersecurity and Penetration-Testing Laboratory
+
 Project Overview
 
 This project involves the design and implementation of a virtual cybersecurity and penetration-testing laboratory using VirtualBox and Kali Linux. The laboratory provides a controlled and isolated environment for learning and performing authorized cybersecurity activities, including network reconnaissance, scanning, vulnerability assessment, and security testing.
